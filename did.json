@@ -1,0 +1,18 @@
+{
+  "id": "did:web:adukuri.github.io:tdp_1",
+  "assertionMethod": [
+    {
+      "id": "did:web:adukuri.github.io:tdp_1#1a2c839e1cb7a93d4605edbcb05a142bfcd2b73fb535ed8ae91826457ada0b84",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:adukuri.github.io:tdp_1",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "crv": "P-384",
+        "x": "rlnry-VxUhk4uNPj_GjMLCDl__iFfiUoAPX0hlJ6NYOa4zKrtzNHxrUk1yovoMbe",
+        "y": "L0H_ENPEQWeDREJNaGfEpDY0Iyu8RDi_TW6TIW-GmpSfO-nvEeO8Ki2O5Uud5Qxv",
+        "kid": "#1a2c839e1cb7a93d4605edbcb05a142bfcd2b73fb535ed8ae91826457ada0b84",
+        "alg": "ES384"
+      }
+    }
+  ]
+}
